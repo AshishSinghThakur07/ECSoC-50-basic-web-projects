@@ -129,6 +129,6 @@ Suitable for:
 
 
 ## 🌟 Acknowledgement
-This repository is maintained as part of **Elite Coders Winter of Code (EcWoC)** to support beginner developers in their open-source journey.
+This repository is maintained as part of **ECSoC** to support beginner developers in their open-source journey.
 
 Happy Coding! 🚀
