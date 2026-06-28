@@ -1,6 +1,6 @@
-# EcWoC – 50 Basic Web Projects 🚀
+# ECSOC – 50 Basic Web Projects 🚀
 
-This repository is created for **Elite Coders Winter of Code (EcWoC)** and is designed to help beginners strengthen their **HTML, CSS, and JavaScript fundamentals** through **50 small, practical projects**.
+
 
 The project focuses on pure frontend basics and provides a beginner-friendly environment for learning **web development** and **open-source contribution workflows**.
 
