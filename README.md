@@ -122,7 +122,7 @@ project-xx-project-name/
 Suitable for:
 - First-time open-source contributors
 - Frontend beginners
-- Participants of **Elite Coders Winter of Code (EcWoC)**
+*
 
 ---
 
